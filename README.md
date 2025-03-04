@@ -1,7 +1,8 @@
 ## Olá sou Lucas Matulis
+
 <div>
-  <a href="https://www.linkedin.com/in/alejandro-huller-44171225a/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasMatulis&hide=contribs,prs,issues,stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://www.linkedin.com/in/lucas-matulis-2965a6248/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasMatulis&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatulis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
