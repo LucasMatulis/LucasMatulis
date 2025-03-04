@@ -1,5 +1,9 @@
 ## Olá sou Lucas Matulis
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMatulis)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://www.linkedin.com/in/alejandro-huller-44171225a/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasMatulis&hide=contribs,prs,issues,stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatulis&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <div style="display: inline_block"><br>
